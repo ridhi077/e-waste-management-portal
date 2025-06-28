@@ -1,0 +1,15 @@
+.form{
+    background: rgba(40, 58, 90, 0.2);;
+    padding: 40px;
+    margin-top: 100px;
+    border-radius: 23px;
+}
+.form-group{
+    margin: 17px 0px;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+
+}
